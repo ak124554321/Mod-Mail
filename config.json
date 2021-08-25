@@ -1,4 +1,6 @@
 {
-    "prefix": "PREFIX",
-    "ServerID": "SERVER ID"
-}  
+	"ip":"Frozalegendrymc.aternos.me",
+	"port": "36958",
+	"name": "FLRPBOT",
+	"auto-night-skip":"false"
+}
